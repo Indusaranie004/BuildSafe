@@ -111,7 +111,7 @@ export default function RegisterScreen() {
                 style={styles.picker}
               >
                 <Picker.Item label="User" value="user" />
-                <Picker.Item label="Engineer" value="admin" />
+                {/* <Picker.Item label="Engineer" value="admin" /> */}
               </Picker>
             </View>
           </View>

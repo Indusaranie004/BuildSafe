@@ -207,4 +207,4 @@ const styles = StyleSheet.create({
   arrowContainer: {
     marginTop: 20,
   },
-});d
+});

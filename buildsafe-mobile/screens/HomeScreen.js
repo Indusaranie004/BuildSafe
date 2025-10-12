@@ -65,7 +65,7 @@ export default function HomeScreen() {
       {/* Profile Button */}
       <TouchableOpacity
         style={styles.profileButton}
-        onPress={() => navigation.navigate('Profile')} // Change 'Profile' to your screen name
+        onPress={() => navigation.navigate('Login')} // Change 'Profile' to your screen name
       >
         <Ionicons name="person-circle-outline" size={28} color="white" />
       </TouchableOpacity>
