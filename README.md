@@ -13,7 +13,7 @@ BuildSafe successfully delivers four core components:
 (4) AI-Based Recommendations providing actionable, cost-aware mitigation strategies. 
 User testing validated that contractors could complete full assessments under less-than-ideal network conditions, with all data reliably saved and synchronized upon reconnection.
 
-===================================================================================================================================================================================
+========================================================================================================================================================================================
 
 
 01. Backe End Setup
