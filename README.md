@@ -15,15 +15,20 @@ User testing validated that contractors could complete full assessments under le
 
 ========================================================================================================================================================================================
 
+"Change the Wi-Fi or any internet IP address in api.js (to connect your device to the server)."
 
-01. Backe End Setup :
+Or, if you want it as a README step title:
+
+01. Change the Wi-Fi or Internet IP Address in api.js (Connect Your Device to the Server)"
+
+02. Backe End Setup :
    npm start
 
-02. Front End Setup :
+03. Front End Setup :
     npm i or npx expo i &
     npx expo start
 
-03. Ollma setup
+04. Ollma setup
 
 ⚙️ Step-by-Step Setup Guide
 🪟 For Windows:
