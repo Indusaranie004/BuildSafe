@@ -12,14 +12,14 @@ User testing validated that contractors could complete full assessments under le
 ===================================================================================================================================================================================
 
 
-// Backe End Setup
-// npm start
+01. Backe End Setup
+   npm start
 
-// Front End Setup
-// npm i or npx expo i
-// npx expo start
+02. Front End Setup
+    npm i or npx expo i
+    npx expo start
 
-// Ollma setup
+03. Ollma setup
 
 ⚙️ Step-by-Step Setup Guide
 🪟 For Windows:
