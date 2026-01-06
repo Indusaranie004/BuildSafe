@@ -12,7 +12,6 @@ BuildSafe successfully delivers four core components:
 
 (4) AI-Based Recommendations providing actionable, cost-aware mitigation strategies. 
 User testing validated that contractors could complete full assessments under less-than-ideal network conditions, with all data reliably saved and synchronized upon reconnection by Rukshan Ekanayake
-========================================================================================================================================================================================
 
 "Change the Wi-Fi or any internet IP address in api.js (to connect your device to the server)."
 
@@ -20,7 +19,7 @@ Or, if you want it as a README step title:
 
 01. Change the Wi-Fi or Internet IP Address in api.js (Connect Your Device to the Server)"
 
-02. Backe End Setup :
+02. BackEnd Setup :
    npm start
 
 03. Front End Setup :
