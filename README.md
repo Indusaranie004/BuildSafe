@@ -8,7 +8,7 @@ BuildSafe successfully delivers four core components:
 
 (2) Risk Scoring Engine generating contextualized 0-100 risk scores by combining structural compliance with live weather data by Migara Wijesinghe
 
-(3) Smart Compliance Scoring Engine (covering established engineering standards - IBC, NFPA, AASHTO-LRFD) : 0 - 100 scoring algorithm with scores classified under 4 severity tiers by Chathumi Kandaudahewa
+(3) Smart Compliance Scoring Engine (covering established engineering standards - IBC, NFPA, AASHTO-LRFD) : 0 - 100 scoring algorithm with scores classified under 3 severity tiers by Chathumi Kandaudahewa
 
 (4) AI-Based Recommendations providing actionable, cost-aware mitigation strategies. 
 User testing validated that contractors could complete full assessments under less-than-ideal network conditions, with all data reliably saved and synchronized upon reconnection by Rukshan Ekanayake
